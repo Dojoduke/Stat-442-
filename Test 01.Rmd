@@ -1,0 +1,181 @@
+---
+title: "Data Visualization Assignement 01"
+author: "Michael Chang Dong 20429617"
+date: "September 11, 2017"
+output:
+  word_document: default
+  html_document: default
+---
+Q1.(a)
+
+(1) 312 in Attic Greek
+
+For Attic Greek, the ancient algorithm contains only additive forms and it is very close to the numbericals used by the ancient Romes
+
+Then 312 = 300 + 10 + 2  = 100 + 100 + 100 + 10 + 1 + 1  
+
+We have :            
+
+![](C:\Users\dojot\Desktop\A1.png)
+<br>
+[hand written area]
+
+(2) 25 in Cuneiform
+
+Cuneiform, the numberical system used by the accient Babylonian
+
+The system itself its relatively simple, as one object counts as one number
+
+25 under Cuneiform is :
+![](C:\Users\dojot\Desktop\A12.png)
+<br>
+[hand written area]
+
+(3) $\frac{3}{16}$ in ancient Egyptian
+  
+In ancient Egyptian, a unique system called the Horus eye fractions is used to represent fractions  
+
+The complete eye equals to 1 and it looks like :
+
+
+
+
+
+
+
+
+
+
+
+Q1.(b)  There are two grapical ways to represent a $\pi$, as shown below, the first way is by drawing a half circle and rotate the radius from one side to the other side, the length of the circle formed is $\pi$ units long, assume that the radius is 1 unit.  
+
+
+
+
+
+
+
+
+
+Or, alternatively, we could have a x-y axis on a plain paper, also assume that the radius is 1 unit, draw a wave as the raidus forms a half circle, the length of the wave is also $\pi$ units long, as shown below :
+
+
+
+
+
+
+
+
+
+[Extra] Or, since drawing a circle itself is hard to describe without the concept of $\pi$, we form a n angle diagram from triangle, cube, .. then eventually a circle, the half length of the circle drawn is also $\pi$ units if the radius is assumed as 1 unit long, as shown below :
+
+
+
+
+
+
+
+
+
+
+Q2.(a)  
+part (1).   
+Based on the researches done by Kent Stevens, the binocular overlap is the region that both eyes could observe on an object, for example a rabbit has a 360 degrees of vision but zero degree of binocular overlap since no fields or areas from a rabbit's eyes are 'overlapped'. Then the concept of degrees of binocular overlap becomes simple, the degrees of the binocular overlap region. Dr. Kent used a piece of glasses and a laser system, by detectiving the vision beams that come from left eye and right eye, he drawed some dots representing the region that could be observed from both the right eye and the left eye of the dynasour, then the angle formed is the degrees of the binocular overlap. For Tyrannosaurus Rex, the top predetor, binocular overlap could turns 2D visions into 3D, which helps the Rex to locate its target more easily. Also, with the much better fine depth judgement, Tyrannosaurus could lock its target while its moving. The binocular overlap makes hunting more efficient.  
+
+part (2).   
+As mentioned above, the degrees of binocular overlap on Tyrannosaurus is 55 degrees. To determine the exact degrees, Dr Kent set up a measurement system using the head bone of the dynasour, by putting 2 laser generaters into each of the Rex's eyebows, the beams will simulate the eyesights of the Rex, meanwhile, Doctor himself was standing on the other side of a window (which was set between the Rex and Dr Kent). By using this device, Doctor assumed himself as the target of the Rex, if doctor could see the Rex from one spot, a red dot was drawn on the window. After detecting the boundaries of the vision of the Rex, Doctor Kent connected the dots he drawed on the window and then calculated the degrees of the binocular overlap of the Rex.
+
+part (3).  
+For Allosaurus, things are a lot different. With a relatively small degrees of only 20 degrees of binocular overlap, Allosaurus are/were craftier mode of predation, which can also be interpreted as ambush predators like modern crocodiles. In stead of running towards target, Allosaurus hide themselves and wait for their targets to show up. A strong support evidence of this kind of style is that Allosaurus have very lateral facing eyes, which are also called 'blinders', which suggests a narrow field of view. This kind of eye structure supports surveillance and awareness of the surroundings and better timing contols when hitting their targets. Compare to T Rax which have large scale of movement, all those supporting evidence suggest that Allosaurus are more approached to ambush predators, those usually have lower degrees of binocular overlaps.
+
+Q2.(b)  
+For mammals, Chris Kirk suggests that the sizes of corneas are keys of providing night vision for mammals.In order to better survive, especially when the daylights were controlled by the dynasours, mammals developed their night visions with an evolution on their eyes - large corneas. Corneas have the ability to adjust how much light could be gathered, provide focusing power and push light into the pupil. It is quite obvious that in order to survive during nights, mammals need more lights to catch fast moving targets, thus large corneas could help with the night visions on mammals.
+
+Q2.(c)  
+part (1).  
+Primates have 60 degrees of binocular overlaps. The large overlaps, however, sacrifices the area that could be covered by visions. There are 4 main reasons that primates developed such a system. The first reason is that after the extinction on dynasours, Primates are/were day active creatures, which require better understanding of surroundings. This could also be suported by the second reason, large binocular overlap provides depth perception. For example, monkeys need high level of depth perception to jump accross different trees. The third reason is that large binocular overlap helps to capitalize hand-eye coordinations. The last reason is that even if the fields of views are limited with large binocular overlaps, accuracy on objects increase dramatically. All these 4 reasons support that why primates have large binocular overlaps.
+
+Q2.(c).  
+Based on Nate Dominy and Scott McGraw, since primates are easy targets, especially for winged predators, primates have adapted several features to overcome this kind of pressure from survivals. Firstly, with large binocular overlaps, primates do not have full vision of surroundings, thus group living is an very important adaption, this could maintain the high degree of binocular overlap withour scarificing the safety. Secondly, primates developed larger and more powerful brains with optic nerve system, which in other words, intellgence. Finally, color vision helps primates to distinguish targets more easily and accurately. All these adaptions support primates to survive even under high pressure living environments.
+
+Q3.(a).  
+[Note: I will introduce my device and how I improved it, please try it out if you are interested, it works(perfectly)!]  
+Part (1A).    
+The 3 words follow the sequence of "Wide","eyed" and "stereo".    
+Part (1B).    
+This scence viewed quite odd since the borders/window picture is shown at the bottom while the tree, the sun and follower are at the top, which does not seem that correct to nature.
+
+Part (2A).  
+The 3 words follow the sequence of "Wide","eyed" and "stereo".  
+Part (2B).
+NOw the graph seems more reasonable since it is a view of a tree, the sun and flowers from a window, which makes more sence.  
+
+Part (3).    
+The keys are the rotations and the placement/orders of the pictures. For example, for the cubes above, if the center cube is the normal state, or the oringinal cube, after rotation (I cannot figure out the exact angle of the rotation, it looks like 45 degrees..) and if we place the rotated cube on the left, it combines to a wide-eyed method, and vice versa.  
+
+Part (4).  
+Even if these 2 pictures above are designed for wide-eyed mode, if we use the cross-eyed method, the picture are fused on opposite directions, which means that the third picture embedded into the picture. A simple change could be that we swap the order of the two pictures, left to the right and right to the left.Just like the cubes example shown above.  
+
+Q3.(b).  
+This is quite obvious, the 3D picture shows a landscope (of a river/shore maybe?), the hightest points are top pink trees/areas and left pink trees/areas, the highest to me is the top center area since it looks higher. The lowest area (except the central dark zone) is the top left corner of the central dark zone, which looks like a piece of plain, while other parts are more close to hills or mountains.  
+
+Q3.(c).  
+In fact both of the images contain a 4-letter picture (from left to the right) : "data".  
+However, as question 3a, if we use the cross-eyed method on the top picture, the "data" characters are falling into the picture.
+
+[Note: Now I will introduce my device.]
+
+In fact, we have quite a lot of people struggle with this question, there is a hugh problem that most of us are wearing glasses, if we keep our glasses on, the cross/wide-eyed tricks do not work that easily. On the opposite side, if we take it off, the third picture could be easily fused but it looks blur.  
+
+I realized this question last Sunday when I started working on this assignment, so I decided to look up tools to help myself.
+
+2 Youtube videos are quite essiential for making this device:  
+
+1.https://www.youtube.com/watch?v=cvShotHl1As    
+
+and  
+
+2.https://www.youtube.com/watch?v=1gRNGSxwOiQ    
+
+The first video introduces how cross-eyed method works and how to use 2 pieces of paper to form a device.  
+The second video is an intro session on how to make a scope-shaped 3D glasses using 2 A4 size papers.  
+
+However, there is a hugh drawback of the device shown in the 2 videos.  
+Method1 : It simply does not work, without knowing the length of your glasses and the sizes of papers, it works poorly, after I tried at least 4 different sizes.  
+Method2 : This one actually works, even if quite a lot of people said it looks stupid at the bottom of the video.  
+
+I followed the second video, it works somehow but not stable.  
+
+I cut off the central blocking areas quite much, following the concept mentioned in the first video that how visions are formed.
+
+[I brought my device to the tutorial and it worked, perfectly, however you still need to move your head forward or backward to adjust your vision]  
+[Hopefully it could help with this assignment, just some extra quick findings.]  
+
+Q4.(a).  
+By defination of orthogonal projection of y onto x, the projection of y onto x equals to :  
+$\frac{y \cdot x}{x^T \cdot x} \cdot x$. Since based on the inner product between x and y mentioned above, 
+$x \cdot y$ = $y \cdot x$ = $x_{1}$$y_{1}$+$x_{2}$$y_{2}$.  
+Then it simply becomes to :  $\frac{x \cdot y}{x^T \cdot x} \cdot x$ = $x \cdot (x^Tx)^{-1} xy$ =  $x \cdot (x^Tx)^{-1} x^Ty$.  
+
+(b).  
+Since x and our vector r are orthognoal to each other, the projection of our vector r onto the given vector x should equals to 0. Which implies that :  
+$x_{1}$$r_{1}$+$x_{2}$$r_{2}$ = 0, which r and x are 2 dimentional vectors. Thus in general our r should be :
+r = $(-x_{2},x_{1})^T$, an example could be, if x = $(1,2)^T$, r = $(-2,1)^T$. This conclustion can also be reached from a 2D x-y axis.  
+
+(c).  
+part 1.  Following the defination of orthogonal vectors, the dot products of u and v equals to :  
+$u_{1}$$v_{1}$+$u_{2}$$v_{2}$ = $\frac{1}{\sqrt2}$$\frac{-1}{\sqrt2}$ + $\frac{1}{\sqrt2}$$\frac{1}{\sqrt2}$ = $\frac{-1}{2}$ + $\frac{1}{2}$ = 0 .  
+Which indicates that u and v are orthognoal to each other.  
+
+part 2.  We decomposite the vectors based on components, treated y = $(y_{1},y_{2})^T$ as a given vector on $R^2$, we have :  
+Condition : $(y_{1},y_{2})^T$ = a$(u_{1},u_{2})^T$ + b$(v_{1},v_{2})^T$ and  
+Since we have the values on u and v, subsitute in, we have  
+$y_{1}$ = $\frac{1}{\sqrt2}$a + $\frac{-1}{\sqrt2}$b and  
+$y_{2}$ = $\frac{1}{\sqrt2}$a + $\frac{1}{\sqrt2}$b, solve and we get :  
+a = $\frac{\sqrt2}{2}$($y_{1}$ + $y_{2}$) and   
+b = $\frac{\sqrt2}{2}$($y_{2}$ - $y_{1}$), where a and b are two real numbers.  
+A simple test could be set y = $(0,\sqrt2)^T$, which indicates the vector on the positive y-axis,  
+following the results above, a = b = 1, which matches the projects on u and v vectors.
+
+
+
